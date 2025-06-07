@@ -1,0 +1,2 @@
+# doc_genai_AI_exam_syllabus_and_mock_exam_part_1
+AI試験の想定シラバスと模擬試験その１
